@@ -46,6 +46,4 @@ npm run wdio
 
 The MIT License (MIT). Please see License File for more information.
 
-https://4it572ls2022.slack.com/join/shared_invite/zt-13lckj3d0-hGGMYP2HsvfYtz9VXQ_Zlg#/shared-invite/email
-
 Try to trigger
